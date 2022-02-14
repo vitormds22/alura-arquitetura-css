@@ -17,3 +17,10 @@ https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A
       * Cada **organismo** é a junção de várias **moléculas**;
       * Cada **template** é a junção de vários **organismos**;
       * As **páginas** são diferentes de **templates**, pois eles são mais abstratos. As **páginas** são mais reais, com imagens e textos condizentes ao projeto final.
+3. Metodologia BEM
+      * BLOCK ELEMENT MODIFIER
+      * É um padrão para nomear as classes com base nos três pilares
+      * **Bloco** sempre será o contexto maior das classes -> bloco
+      * **Elemento** será separado por underline -> bloco__elemendo
+      * **Modificador** será o filho do elemento separado por traço -> bloco__elemendo--modificador
+      * Ou até mesmo -> bloco--modificador
