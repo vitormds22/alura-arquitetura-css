@@ -8,4 +8,5 @@ https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A
 
 1. Arquitetura de projetos CSS
       * Utilização de tag para estilização
-      * Não amarrar diretamente os estilos às tags, mas sim utilizar classes 
+      * Não amarrar diretamente os estilos às tags, mas sim utilizar classes
+      * Sempre bom separar os arquivos css para cada parte da nossa página HTML
