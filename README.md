@@ -10,6 +10,7 @@ https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A
       * Utilização de tag para estilização
       * Não amarrar diretamente os estilos às tags, mas sim utilizar classes
       * Sempre bom separar os arquivos css para cada parte da nossa página HTML
+      * Criar pastas e arquivos separados é essencial para melhorar a manutenção do estilo da página
 2. Atomic Design
       * Ajuda a organizar melhor os componentes;
       * Cada **átomo** é relacionado ao elementos HTML (Input, Label, Button);
