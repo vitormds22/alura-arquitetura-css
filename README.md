@@ -11,6 +11,7 @@ https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A
       * Não amarrar diretamente os estilos às tags, mas sim utilizar classes
       * Sempre bom separar os arquivos css para cada parte da nossa página HTML
       * Criar pastas e arquivos separados é essencial para melhorar a manutenção do estilo da página
+      * É uma boa prática estilizar com os atributos em ordem alfabética
 2. Atomic Design
       * Ajuda a organizar melhor os componentes;
       * Cada **átomo** é relacionado ao elementos HTML (Input, Label, Button);
@@ -25,3 +26,7 @@ https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A
       * **Elemento** será separado por underline -> bloco__elemendo
       * **Modificador** será o filho do elemento separado por traço -> bloco__elemendo--modificador
       * Ou até mesmo -> bloco--modificador
+4. Imagens
+      * É importante definir o que é uma imagem meramente ilustrativa e se é importante estar no HTML.
+      * Se for ilustrativa, idealmente é melhor estar no css do que no HTML
+      * Se for importante semânticamente podemos importar pelo CSS
